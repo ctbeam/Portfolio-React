@@ -1,0 +1,16 @@
+#portfolioCard {
+  margin: 0rem;
+  width: 15rem;
+}
+
+.card-img-top {
+  height: 10rem;
+}
+
+.display-4 {
+  padding-bottom: 30px;
+}
+
+.container {
+  width: auto;
+}

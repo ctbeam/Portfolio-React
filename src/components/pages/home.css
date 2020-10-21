@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: grey;
+  margin-bottom: 0;
+}
+
+#homeText {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.card-img {
+  margin: 0.5rem;
+  float: left;
+  max-width: 25rem;
+  max-height: 25rem;
+}
