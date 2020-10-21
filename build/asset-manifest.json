@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.e521d0be.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.1fddab38.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.1fddab38.chunk.js.map",
-    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.ad7560c5.js",
-    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.ad7560c5.js.map",
-    "static/js/2.4682d177.chunk.js": "/Portfolio-React/static/js/2.4682d177.chunk.js",
-    "static/js/2.4682d177.chunk.js.map": "/Portfolio-React/static/js/2.4682d177.chunk.js.map",
-    "index.html": "/Portfolio-React/index.html",
-    "precache-manifest.89640d5025c831e983ed8d8805b96144.js": "/Portfolio-React/precache-manifest.89640d5025c831e983ed8d8805b96144.js",
-    "service-worker.js": "/Portfolio-React/service-worker.js",
-    "static/css/main.e521d0be.chunk.css.map": "/Portfolio-React/static/css/main.e521d0be.chunk.css.map",
-    "static/js/2.4682d177.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.4682d177.chunk.js.LICENSE.txt",
-    "static/media/Employee-Directory.jpg": "/Portfolio-React/static/media/Employee-Directory.04dbda25.jpg",
-    "static/media/logo.svg": "/Portfolio-React/static/media/logo.5d5d9eef.svg",
-    "static/media/profile-picture.png": "/Portfolio-React/static/media/profile-picture.1bd8ca8a.png",
-    "static/media/resume.pdf": "/Portfolio-React/static/media/resume.aa0ba88f.pdf",
-    "static/media/sp.jpg": "/Portfolio-React/static/media/sp.491d1533.jpg",
-    "static/media/sticker_2060.png": "/Portfolio-React/static/media/sticker_2060.681b00d0.png",
-    "static/media/workTracker.gif": "/Portfolio-React/static/media/workTracker.88b73785.gif"
+    "main.css": "/Portfolio-React/public/static/css/main.e521d0be.chunk.css",
+    "main.js": "/Portfolio-React/public/static/js/main.038f14b7.chunk.js",
+    "main.js.map": "/Portfolio-React/public/static/js/main.038f14b7.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/public/static/js/runtime-main.7bab7ef6.js",
+    "runtime-main.js.map": "/Portfolio-React/public/static/js/runtime-main.7bab7ef6.js.map",
+    "static/js/2.4682d177.chunk.js": "/Portfolio-React/public/static/js/2.4682d177.chunk.js",
+    "static/js/2.4682d177.chunk.js.map": "/Portfolio-React/public/static/js/2.4682d177.chunk.js.map",
+    "index.html": "/Portfolio-React/public/index.html",
+    "precache-manifest.3a232e669edcc0f644eb8159d8804e11.js": "/Portfolio-React/public/precache-manifest.3a232e669edcc0f644eb8159d8804e11.js",
+    "service-worker.js": "/Portfolio-React/public/service-worker.js",
+    "static/css/main.e521d0be.chunk.css.map": "/Portfolio-React/public/static/css/main.e521d0be.chunk.css.map",
+    "static/js/2.4682d177.chunk.js.LICENSE.txt": "/Portfolio-React/public/static/js/2.4682d177.chunk.js.LICENSE.txt",
+    "static/media/Employee-Directory.jpg": "/Portfolio-React/public/static/media/Employee-Directory.04dbda25.jpg",
+    "static/media/logo.svg": "/Portfolio-React/public/static/media/logo.5d5d9eef.svg",
+    "static/media/profile-picture.png": "/Portfolio-React/public/static/media/profile-picture.1bd8ca8a.png",
+    "static/media/resume.pdf": "/Portfolio-React/public/static/media/resume.aa0ba88f.pdf",
+    "static/media/sp.jpg": "/Portfolio-React/public/static/media/sp.491d1533.jpg",
+    "static/media/sticker_2060.png": "/Portfolio-React/public/static/media/sticker_2060.681b00d0.png",
+    "static/media/workTracker.gif": "/Portfolio-React/public/static/media/workTracker.88b73785.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad7560c5.js",
+    "static/js/runtime-main.7bab7ef6.js",
     "static/js/2.4682d177.chunk.js",
     "static/css/main.e521d0be.chunk.css",
-    "static/js/main.1fddab38.chunk.js"
+    "static/js/main.038f14b7.chunk.js"
   ]
 }
