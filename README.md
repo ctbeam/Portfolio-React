@@ -14,7 +14,7 @@
 
 ## Description:
 
-I created a personal website and portfolio page using React and Bootstrap components.
+I created a portfolio website to show to future employers using React and Bootstrap components.
 
 ## Installation:
 
