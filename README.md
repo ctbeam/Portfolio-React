@@ -30,8 +30,8 @@ No license was required for this project.
 
 ## Created by:
 
-Garrett Stein-Seroussi
+Cameron Beam
 
-github.com/gsteinseroussi/Portfolio
+github.com/ctbeam/Portfolio-React
 
-gsteinseroussi@gmail.com
+ctbeam2@ncsu.edu
